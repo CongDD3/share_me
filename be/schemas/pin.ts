@@ -12,8 +12,7 @@ export default {
       name: 'about',
       type: 'string',
       title: 'About',
-    }
-    ,
+    },
     {
       name: 'destination',
       title: 'Destination',
